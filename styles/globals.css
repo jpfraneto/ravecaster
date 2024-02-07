@@ -38,7 +38,7 @@ h1 {
   font-size: 6rem;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 888px) {
   h1 {
     font-size: 3rem;
   }
